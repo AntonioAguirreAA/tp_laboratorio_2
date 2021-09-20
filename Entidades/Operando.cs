@@ -58,6 +58,11 @@ namespace Entidades
             return retorno;
         }
 
+        /// <summary>
+        /// Recibe una cadena en binario y la transforma en un numero tipo Double
+        /// </summary>
+        /// <param name="binario"></param>
+        /// <returns>Double con el número en decimal</returns>
         public static string BinarioDecimal(string binario)
         {
             string retorno = "Valor invalido";
@@ -86,11 +91,16 @@ namespace Entidades
             return retorno;
         }
 
+        /// <summary>
+        /// Recibe un numero y lo convierte en una cadena en binario
+        /// </summary>
+        /// <param name="numero"></param>
+        /// <returns>String con la cadena en binario</returns>
         public static string DecimalBinario(double numero)
         {
             double resto;
             double cociente;
-            string retorno = "Valor inválido";
+            string retorno = "Valor invalido";
 
             if (numero > 0)
             {
@@ -116,9 +126,22 @@ namespace Entidades
             return retorno;
         }
 
+        /// <summary>
+        /// Recibe un string y lo convierte en una cadena en binario
+        /// </summary>
+        /// <param name="strNumero"></param>
+        /// <returns>String con la cadena en binario</returns>
         public static string DecimalBinario(string strNumero)
         {
-            return DecimalBinario(Convert.ToDouble(strNumero));
+            double numero;
+            if(double.TryParse(strNumero,out numero))
+            {
+                return DecimalBinario(Convert.ToDouble(numero));
+            }
+            else
+            {
+                return "Valor invalido";
+            }
         }
 
         //SOBRECARGA DE OPERADORES

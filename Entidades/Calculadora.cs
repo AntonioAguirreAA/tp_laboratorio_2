@@ -20,6 +20,13 @@ namespace Entidades
             return retorno;
         }
 
+        /// <summary>
+        /// Recibe dos operandos del tipo Operando y un operador en un char y realiza dicha operacion
+        /// </summary>
+        /// <param name="num1"></param>
+        /// <param name="num2"></param>
+        /// <param name="operador"></param>
+        /// <returns>Resultado de la operacion en un double</returns>
         public static double Operar(Operando num1, Operando num2, char operador)
         {
             operador = ValidarOperador(operador);
