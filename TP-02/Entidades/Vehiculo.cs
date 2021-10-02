@@ -19,6 +19,7 @@ namespace Entidades
         {
             Chico, Mediano, Grande
         }
+        
         EMarca marca;
         string chasis;
         ConsoleColor color;
@@ -42,6 +43,17 @@ namespace Entidades
         public virtual string Mostrar()
         {
             return (string)this;
+        }
+
+        //Invalidaciones generadas automaticamente por Visual Studio
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
         }
 
         public static explicit operator string(Vehiculo p)
