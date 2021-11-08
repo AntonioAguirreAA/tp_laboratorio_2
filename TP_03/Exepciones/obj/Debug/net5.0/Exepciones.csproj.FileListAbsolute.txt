@@ -1,0 +1,12 @@
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\bin\Debug\net5.0\Exepciones.deps.json
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\bin\Debug\net5.0\Exepciones.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\bin\Debug\net5.0\ref\Exepciones.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\bin\Debug\net5.0\Exepciones.pdb
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\obj\Debug\net5.0\Exepciones.csproj.AssemblyReference.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\obj\Debug\net5.0\Exepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\obj\Debug\net5.0\Exepciones.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\obj\Debug\net5.0\Exepciones.AssemblyInfo.cs
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\obj\Debug\net5.0\Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\obj\Debug\net5.0\Exepciones.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\obj\Debug\net5.0\ref\Exepciones.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Exepciones\obj\Debug\net5.0\Exepciones.pdb
