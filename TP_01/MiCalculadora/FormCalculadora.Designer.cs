@@ -90,6 +90,7 @@ namespace MiCalculadora
             this.BtnConvertirABinario.TabIndex = 7;
             this.BtnConvertirABinario.Text = "Convertir a Binario";
             this.BtnConvertirABinario.UseVisualStyleBackColor = true;
+            this.BtnConvertirABinario.Click += new System.EventHandler(this.BtnConvertirABinario_Click);
             // 
             // BtnConvertirADecimal
             // 
@@ -100,6 +101,7 @@ namespace MiCalculadora
             this.BtnConvertirADecimal.TabIndex = 8;
             this.BtnConvertirADecimal.Text = "Convertir a Decimal";
             this.BtnConvertirADecimal.UseVisualStyleBackColor = true;
+            this.BtnConvertirADecimal.Click += new System.EventHandler(this.BtnConvertirADecimal_Click);
             // 
             // BtnOperar
             // 
@@ -110,6 +112,7 @@ namespace MiCalculadora
             this.BtnOperar.TabIndex = 4;
             this.BtnOperar.Text = "Operar";
             this.BtnOperar.UseVisualStyleBackColor = true;
+            this.BtnOperar.Click += new System.EventHandler(this.BtnOperar_Click);
             // 
             // BtnLimpiar
             // 
@@ -120,6 +123,7 @@ namespace MiCalculadora
             this.BtnLimpiar.TabIndex = 5;
             this.BtnLimpiar.Text = "Limpiar";
             this.BtnLimpiar.UseVisualStyleBackColor = true;
+            this.BtnLimpiar.Click += new System.EventHandler(this.BtnLimpiar_Click);
             // 
             // BtnCerrar
             // 
@@ -161,6 +165,7 @@ namespace MiCalculadora
             this.Name = "FormCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Aguirre Antonio del curso 2° A";
+            this.Load += new System.EventHandler(this.FormCalculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

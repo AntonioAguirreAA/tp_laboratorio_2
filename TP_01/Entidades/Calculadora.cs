@@ -10,7 +10,7 @@ namespace Entidades
     {
         private static char ValidarOperando(char operador)
         { 
-            if (operador != '+' || operador != '-' || operador != '*' || operador != '/')
+            if (operador != '+' && operador != '-' && operador != '*' && operador != '/')
             {
                 return '+';
             }

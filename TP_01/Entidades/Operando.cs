@@ -35,38 +35,78 @@ namespace Entidades
 
         private static bool EsBinario(string binario)
         {
-            bool retorno = false;
-            if(!binario.Contains('0') || !binario.Contains('1'))
+            bool retorno = true;
+            if(!binario.Contains('0') && !binario.Contains('1'))
             {
-                retorno = true;
+                retorno = false;
             }
             return retorno;
         }
 
-        //private static string BinarioDecimal(string binario)
-        //{
-        //    string retorno = "Valor Inválido";
-            
-        //    if(EsBinario(binario))
-        //    {
-        //        int numero = 0;
-        //        int digito = 0;
-        //        const int DIVISOR = 10;
+        public static string BinarioDecimal(string binario)
+        {
+            int intResultado = 0;
+            char[] charNumero = binario.ToCharArray();
+            Array.Reverse(charNumero);
+            string strResultado;
 
-        //        for (long i = binario, j = 0; i > 0; i /= DIVISOR, j++)
-        //        {
-        //            digito = (int)i % DIVISOR;
-        //            if (digito != 1 && digito != 0)
-        //            {
-        //                return -1;
-        //            }
-        //            numero += digito * (int)Math.Pow(2, j);
-        //        }
+            if (EsBinario(binario))
+            {
+                for (int i = 0; i < charNumero.Length; i++)
+                {
+                    if (charNumero[i] == '1')
+                    {
+                        intResultado += (int)Math.Pow(2, i);
+                    }
+                }
+                strResultado = intResultado.ToString();
+            }
+            else
+            {
+                strResultado = "Valor inválido";
+            }
 
-        //        return numero;
-        //    }
-        //}
-        
+            return strResultado;
+        }
+
+        public static string DecimalBinario(double numero)
+        {
+            string resultado = null;
+            int numeroEntero = (int)numero;
+
+            if (numeroEntero > 0)
+            {
+                do
+                {
+                    if (numeroEntero % 2 == 1)
+                    {
+                        resultado = "1" + resultado;
+                    }
+                    else if (numeroEntero % 2 == 0)
+                    {
+                        resultado = "0" + resultado;
+                    }
+                    numeroEntero = numeroEntero / 2;
+                } while (numeroEntero != 0);
+            }
+            else
+            {
+                resultado = "Valor invalido";
+            }
+            return resultado;
+        }
+
+        public static string DecimalBinario(string numero)
+        {
+            string retorno = "Valor invalido";
+            double decim;
+            if(Double.TryParse(numero,out decim))
+            {
+                retorno = DecimalBinario(decim);
+            }
+            return retorno;
+        }
+
         public static double operator +(Operando n1, Operando n2)
         {
             return n1.numero + n2.numero;
