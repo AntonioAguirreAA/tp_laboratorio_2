@@ -1,0 +1,16 @@
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\bin\Debug\net5.0\Consola.exe
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\bin\Debug\net5.0\Consola.deps.json
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\bin\Debug\net5.0\Consola.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\bin\Debug\net5.0\ref\Consola.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\bin\Debug\net5.0\Consola.pdb
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\Consola.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\ref\Consola.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\Consola.pdb
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
