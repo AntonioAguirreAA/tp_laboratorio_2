@@ -1,0 +1,12 @@
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\bin\Debug\net5.0\XML.deps.json
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\bin\Debug\net5.0\XML.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\bin\Debug\net5.0\ref\XML.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\bin\Debug\net5.0\XML.pdb
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\obj\Debug\net5.0\XML.csproj.AssemblyReference.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\obj\Debug\net5.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\obj\Debug\net5.0\XML.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\obj\Debug\net5.0\XML.AssemblyInfo.cs
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\obj\Debug\net5.0\XML.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\obj\Debug\net5.0\XML.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\obj\Debug\net5.0\ref\XML.dll
+C:\Users\Tony\Desktop\TPs\tp_laboratorio_2\TP_03\Aguirre.Antonio.2A.TPFinal\XML\obj\Debug\net5.0\XML.pdb
